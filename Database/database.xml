@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+    <person>
+        <ID>0</ID>
+        
+        <name>Yasmin Araujo</name>
+        <email> yasminaraujo@people.com</email>
+        <phone>31 992596360</phone>
+        <address> R. Itambacury, Contagem</address>
+        <tag1/>
+        <tag2>Management</tag2>
+        <tag3>Developer</tag3>
+    
+    </person>
+    <person>
+    <ID>1</ID>
+    
+        <name> Matheus Parreiras</name>
+        <email> matheus@people.com</email>
+        <phone>31 992597860</phone>
+        <address> R. das Rosas, Contagem</address>
+        <tag1/>
+        <tag2>Management</tag2>
+        <tag3>Developer</tag3>
+        
+    </person>
+    <person>
+    <ID>2</ID>
+    
+        <name> Luisa Soares</name>
+        <email> Luisasoares@people.com</email>
+        <phone>31 958926360</phone>
+        <address> R. Amorim, Belo Horizonte</address>
+        <tag1>CEO</tag1>
+        <tag2>Management</tag2>
+        <tag3> </tag3>
+    
+    </person>
+
+</people>
